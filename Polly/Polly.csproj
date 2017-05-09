@@ -183,6 +183,16 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Polly Img\CloverWall.jpeg" />
+    <Content Include="Polly Img\dahliaRed.jpeg" />
+    <Content Include="Polly Img\daisy.jpeg" />
+    <Content Include="Polly Img\GreenWall.jpeg" />
+    <Content Include="Polly Img\lavendarField.jpeg" />
+    <Content Include="Polly Img\rose.jpeg" />
+    <Content Include="Polly Img\rosePeach.jpeg" />
+    <Content Include="Polly Img\spring.jpeg" />
+    <Content Include="Polly Img\sunflower.jpeg" />
+    <Content Include="Polly Img\sunflowerField.jpeg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">

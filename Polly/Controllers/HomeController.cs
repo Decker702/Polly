@@ -15,14 +15,14 @@ namespace Polly.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Polly's Posies Inventory Management System";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Please call Admin if you have questions";
 
             return View();
         }
