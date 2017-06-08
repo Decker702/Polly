@@ -1,20 +1,20 @@
 # Store Mangement System 
 
+# Landing Page
+
+![Landing] (/Polly ScreenShots/PollyLanding.PNG)
+
 # Employees
 
-Polly ScreenShots/PollyEmployees.PNG
+![Employees] (/Polly ScreenShots/PollyEmployees.PNG)
 
 ## Departments
 
-Polly ScreenShots/PollyEmployees.PNG
+![Dept](/Polly ScreenShots/PollyDept.PNG)
 
 ## Assignments
-Polly ScreenShots/PollyEmployees.PNG
 
+![Assignment] (/Polly ScreenShots/PollyAssignment.PNG)
 
-## Customers
-
-
-Polly ScreenShots/PollyEmployees.PNG
 
 
