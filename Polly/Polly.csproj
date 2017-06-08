@@ -179,6 +179,9 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Pics\CloverWall.jpeg" />
+    <Content Include="Content\Pics\lavendarField.jpeg" />
+    <Content Include="Content\Pics\spring.jpeg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />

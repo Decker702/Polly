@@ -15,7 +15,7 @@ namespace Polly.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Polly's Posies Inventory Management System";
+            ViewBag.Message = "Polly's Posies Management System";
 
             return View();
         }
