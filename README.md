@@ -2,11 +2,11 @@
 
 # Landing Page
 
-![Landing] (/Polly ScreenShots/PollyLanding.png)
+![Landing](/Polly ScreenShots/PollyLanding.png)
 
 # Employees
 
-![Employees] (/Polly ScreenShots/PollyEmployees.PNG)
+![Employees](/Polly ScreenShots/PollyEmployees.PNG)
 
 ## Departments
 
@@ -14,7 +14,7 @@
 
 ## Assignments
 
-![Assignment] (/Polly ScreenShots/PollyAssignment.PNG)
+![Assignment](/Polly ScreenShots/PollyAssignment.PNG)
 
 
 
