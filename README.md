@@ -2,7 +2,7 @@
 
 # Landing Page
 
-![Landing] (/Polly ScreenShots/PollyLanding.PNG)
+![Landing] (/Polly ScreenShots/PollyLanding.png)
 
 # Employees
 
